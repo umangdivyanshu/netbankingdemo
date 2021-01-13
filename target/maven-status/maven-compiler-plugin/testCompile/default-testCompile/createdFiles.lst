@@ -1,0 +1,7 @@
+com/netBanking/testCases/TC_AddNewCustomer_002.class
+com/netBanking/pageObjects/LoginPage.class
+com/netBanking/utilities/ReadConfig.class
+com/netBanking/utilities/Reporting.class
+com/netBanking/testCases/TC_LoginTest_001.class
+com/netBanking/pageObjects/AddCustomer.class
+com/netBanking/testCases/BaseClass.class

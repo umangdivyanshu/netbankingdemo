@@ -1,0 +1,82 @@
+2021-01-10 01:47:28,734 - ebanking -INFO - URL is opened
+2021-01-10 01:47:29,040 - ebanking -INFO - Username entered
+2021-01-10 01:47:29,137 - ebanking -INFO - Password entered
+2021-01-10 01:47:30,772 - ebanking -INFO - Login Test failed
+2021-01-10 02:47:34,355 - ebanking -INFO - URL is opened
+2021-01-10 02:47:34,702 - ebanking -INFO - Username entered
+2021-01-10 02:47:34,797 - ebanking -INFO - Password entered
+2021-01-10 02:47:36,981 - ebanking -INFO - Login Test failed
+2021-01-11 23:12:12,791 - ebanking -INFO - URL is opened
+2021-01-11 23:12:13,131 - ebanking -INFO - Username entered
+2021-01-11 23:12:13,234 - ebanking -INFO - Password entered
+2021-01-11 23:12:15,296 - ebanking -INFO - Login Test failed
+2021-01-11 23:54:39,605 - ebanking -INFO - URL is opened
+2021-01-11 23:54:39,871 - ebanking -INFO - Username entered
+2021-01-11 23:54:39,962 - ebanking -INFO - Password entered
+2021-01-11 23:54:42,010 - ebanking -INFO - Login Test failed
+2021-01-11 23:55:59,523 - ebanking -INFO - URL is opened
+2021-01-11 23:55:59,805 - ebanking -INFO - Username entered
+2021-01-11 23:55:59,903 - ebanking -INFO - Password entered
+2021-01-11 23:56:02,261 - ebanking -INFO - Login Test failed
+2021-01-12 00:08:51,428 - ebanking -INFO - URL is opened
+2021-01-12 00:08:51,785 - ebanking -INFO - Username entered
+2021-01-12 00:08:51,935 - ebanking -INFO - Password entered
+2021-01-12 00:08:54,566 - ebanking -INFO - Login Test failed
+2021-01-12 00:14:26,315 - ebanking -INFO - URL is opened
+2021-01-12 00:14:26,603 - ebanking -INFO - Username entered
+2021-01-12 00:14:26,706 - ebanking -INFO - Password entered
+2021-01-12 00:14:29,652 - ebanking -INFO - Login Test failed
+2021-01-12 00:15:43,438 - ebanking -INFO - URL is opened
+2021-01-12 00:15:43,799 - ebanking -INFO - Username entered
+2021-01-12 00:15:44,013 - ebanking -INFO - Password entered
+2021-01-12 00:16:44,145 - ebanking -INFO - URL is opened
+2021-01-12 00:16:44,448 - ebanking -INFO - Username entered
+2021-01-12 00:16:44,702 - ebanking -INFO - Password entered
+2021-01-12 13:33:54,389 - ebanking -INFO - URL is opened
+2021-01-12 13:33:54,825 - ebanking -INFO - Username entered
+2021-01-12 13:33:54,917 - ebanking -INFO - Password entered
+2021-01-12 13:34:00,470 - ebanking -INFO - Adding new customer details....
+2021-01-12 13:34:07,908 - ebanking -INFO - New customer details added succesfullly
+2021-01-12 13:34:10,946 - ebanking -INFO - Test case passed
+2021-01-12 23:26:37,748 - ebanking -INFO - URL is opened
+2021-01-12 23:26:38,092 - ebanking -INFO - Username entered
+2021-01-12 23:26:38,199 - ebanking -INFO - Password entered
+2021-01-12 23:26:43,156 - ebanking -INFO - Adding new customer details....
+2021-01-12 23:26:50,501 - ebanking -INFO - New customer details added succesfullly
+2021-01-12 23:26:53,538 - ebanking -INFO - Test case passed
+2021-01-12 23:54:27,716 - ebanking -INFO - URL is opened
+2021-01-12 23:54:28,060 - ebanking -INFO - Username entered
+2021-01-12 23:54:28,154 - ebanking -INFO - Password entered
+2021-01-12 23:54:33,584 - ebanking -INFO - Adding new customer details....
+2021-01-13 00:28:53,299 - ebanking -INFO - URL is opened
+2021-01-13 00:28:53,569 - ebanking -INFO - Username entered
+2021-01-13 00:28:53,663 - ebanking -INFO - Password entered
+2021-01-13 00:28:58,431 - ebanking -INFO - Adding new customer details....
+2021-01-13 00:29:05,811 - ebanking -INFO - New customer details added succesfullly
+2021-01-13 00:29:08,857 - ebanking -INFO - Test case passed
+2021-01-13 02:09:08,572 - ebanking -INFO - URL is opened
+2021-01-13 02:09:08,939 - ebanking -INFO - Username entered
+2021-01-13 02:09:09,088 - ebanking -INFO - Password entered
+2021-01-13 02:09:14,317 - ebanking -INFO - Adding new customer details....
+2021-01-13 02:09:21,674 - ebanking -INFO - New customer details added succesfullly
+2021-01-13 02:09:24,803 - ebanking -INFO - Test case passed
+2021-01-13 02:09:47,710 - ebanking -INFO - URL is opened
+2021-01-13 02:09:47,947 - ebanking -INFO - Username entered
+2021-01-13 02:09:48,066 - ebanking -INFO - Password entered
+2021-01-13 02:09:53,260 - ebanking -INFO - Adding new customer details....
+2021-01-13 02:10:00,285 - ebanking -INFO - New customer details added succesfullly
+2021-01-13 02:10:03,408 - ebanking -INFO - Test case passed
+2021-01-13 02:12:54,185 - ebanking -INFO - URL is opened
+2021-01-13 02:12:54,670 - ebanking -INFO - Username entered
+2021-01-13 02:12:54,827 - ebanking -INFO - Password entered
+2021-01-13 02:13:00,106 - ebanking -INFO - Adding new customer details....
+2021-01-13 02:13:59,486 - ebanking -INFO - URL is opened
+2021-01-13 02:13:59,730 - ebanking -INFO - Username entered
+2021-01-13 02:13:59,827 - ebanking -INFO - Password entered
+2021-01-13 02:14:04,611 - ebanking -INFO - Adding new customer details....
+2021-01-13 02:14:12,065 - ebanking -INFO - New customer details added succesfullly
+2021-01-13 02:14:15,139 - ebanking -INFO - Test case passed
+2021-01-13 02:17:10,103 - ebanking -INFO - URL is opened
+2021-01-13 02:17:10,360 - ebanking -INFO - Username entered
+2021-01-13 02:17:10,453 - ebanking -INFO - Password entered
+2021-01-13 02:17:16,022 - ebanking -INFO - Adding new customer details....
